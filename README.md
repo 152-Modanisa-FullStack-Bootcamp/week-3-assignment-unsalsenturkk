@@ -1,3 +1,7 @@
+# RESULT
+
+![RESULT](./public/week-3-assignment.gif)
+
 # Week 3 Assignment
 
 In this assignment, we expect to see tests like
